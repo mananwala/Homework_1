@@ -86,3 +86,22 @@ Innovations in the payments industry within the fintech domain can be categorize
 
 ## Results
 
+Since RentMoola is a private company, it is not required to disclose its book of business to the public. However, the company claims that it is a market-leader in this space when compared to some of the competitors listed above. RentMoola claims that it is in over 400 cities across North America and continues to increase its market share of the $550+ billon in rent paid in the U.S.
+
+In January 2017, RentMoola announced that, as a part of its growth strategy, it has opened an office in San Francisco to lead and grow RentMoola's sales and partnership channel growth.[⁷](https://rentmoola.com/press/releases/rentmoola-opens-san-francisco-office)
+
+---
+
+## Recommendations
+
+Currently, RentMoola offers an array of services and features for both tenents and landlords. However, one feature that RentMoola could integrate into their platform is the option for prospective tenants to search for available units available to rent.
+
+Integrating this feature into their platform will result in the following benefits:
+
+* Access to bigger market share as they will enter the process much earlier than they do currently.
+
+* Incentive for brokers to sign-up as the platform already provides important services such as tenant insurance, credit check for landlords, security deposit alternatives, etc.
+
+* Incentive for property managers as a lot of their work (i.e., background checks, managing deposits, etc.) can all be managed from within the RentMoola platform.
+
+In my opinion, implementing the above feature may not be a very difficult task as it can be done by adding an API. I believe that since the Canadian real estate market is highly regulated, the required information (i.e., list of brokers, active listings, etc.) is readily available. Considering this, creating an API may not be all that difficult, thereby, giving RentMoola access to a much greater untapped market. 
